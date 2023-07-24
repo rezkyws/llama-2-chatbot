@@ -2,7 +2,7 @@
 
 This is quantized llama 2 7b model version.
 
-You can running Llama 2 model in two different ways with this repo : 
+You can running this model in two different ways with this repo : 
 * Only API
 * Using Web UI (streamlit)
 
