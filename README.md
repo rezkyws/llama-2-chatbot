@@ -1,6 +1,6 @@
 # llama-2-inference
 
-<img src="![image](https://github.com/rezkyws/llama-2-inference/assets/54891455/66563d2e-52e5-40fb-9862-2816df58ee11)" alt="drawing" width="200"/>
+<img src="https://github.com/rezkyws/llama-2-inference/assets/54891455/66563d2e-52e5-40fb-9862-2816df58ee11"  width="600" height="400">
 
 This is quantized llama 2 7b model version.
 
