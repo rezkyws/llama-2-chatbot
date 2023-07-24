@@ -12,7 +12,7 @@ if prompt := st.chat_input():
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.chat_message("user").write(prompt)
     print(st.session_state.messages)
-    response = requests.post('http://localhost:3398/chat', json={"text": st.session_state.messages}, timeout=60).json()
+    response = requests.post('http://localhost:4342/chat', json={"text": st.session_state.messages}, timeout=60).json()
     response = {"choices": [{
         "message": {
             "role": "assistant",
