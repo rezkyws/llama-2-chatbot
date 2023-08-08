@@ -1,5 +1,6 @@
 # python 3.10.9
 accelerate==0.21.0
+streamlit
 colorama
 datasets
 einops
