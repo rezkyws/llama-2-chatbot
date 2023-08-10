@@ -9,7 +9,7 @@ origins = ["*"]
 app.add_middleware(CORSMiddleware, allow_origins=origins)
 
 
-model_name_or_path = "TheBloke/Llama-2-13B-GPTQ"
+model_name_or_path = "TheBloke/Llama-2-7b-Chat-GPTQ"
 model_basename = "gptq_model-4bit-128g"
 
 use_triton = False
